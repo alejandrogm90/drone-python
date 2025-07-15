@@ -6,8 +6,8 @@
 [![License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Python3_template
-Basic Python3 template
+# Drone-Python
+Basic project to create a drone 
 
 ### Built With
 
@@ -69,20 +69,6 @@ Distributed under the License. See `LICENSE.txt` for more information.
 Alejandro Gómez - [@alejandrogm90][profile-url]
 
 Project Link: [project-url]
-
-<!--
-pip freeze > requirements.txt
-pipreqs --force
-
-pipenv update
-pipenv requirements > requirements.txt
-pipenv run python setup.py bdist_wheel
-
-pipenv run python script.py
-pipenv run python -m unittest discover
-pipenv run python -m unittest
-pipenv run python -m unittest test/utils/test_common_functions.py
--->
 
 [version-shield]: https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge
 [contributors-shield]: https://img.shields.io/github/contributors/alejandrogm90/coin-comparator.svg?style=for-the-badge
